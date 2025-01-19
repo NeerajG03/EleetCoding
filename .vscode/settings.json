@@ -1,4 +1,7 @@
 {
     "codeium.disableSupercomplete": true,
     "codeium.disableTabJump": true,
+    "codeium.enableConfig": {
+        "cpp": false
+    }
 }
